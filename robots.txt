@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.fotostudio.cn/sitemap.xml
